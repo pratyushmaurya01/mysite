@@ -1,4 +1,4 @@
-import profileImg from "../assets/pic.jpeg";
+import profileImg from "../assets/my_pic.jpeg";
 export default function About() {
   return (
     <div className="min-h-full px-8 py-4 text-gray-300 font-mono">

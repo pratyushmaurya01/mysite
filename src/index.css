@@ -1,0 +1,17 @@
+@import "tailwindcss";
+/* VS Code–like UI font */
+body {
+  font-family: Inter, "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+html, body, #root {
+  height: 100%;
+  margin: 0;
+
+}
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #3c3c3c;
+  border-radius: 2px;
+}
